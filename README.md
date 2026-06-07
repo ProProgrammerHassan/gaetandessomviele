@@ -23,7 +23,6 @@ Beyond the keyboard, I am deeply committed to teamwork and leadership, qualities
 ---
 
 ### 📂 Featured Projects
-*(Tip: Vervang deze placeholders door je eigen echte repositories!)*
 
 *   **[Project 1: AI/ML Model]** - This research develops a machine learning-based proof-of-concept to optimize staff scheduling for Bakkerij Bossu. By utilizing models like Random Forest and XGBoost, daily sales forecasts are translated into precise "labor minutes" to accurately match staffing levels with customer demand. This data-driven approach aims to reduce labor costs and food waste while significantly enhancing service quality and employee well-being.[cite: 1]
 
@@ -35,5 +34,3 @@ Beyond the keyboard, I am deeply committed to teamwork and leadership, qualities
 *   📍 **Location:** Nazareth, Belgium[cite: 1]
 
 ---
-
-*“Driven by data, empowered by teamwork, and always ready for the next tech challenge.”*[cite: 1]
